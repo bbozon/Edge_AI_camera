@@ -12,3 +12,5 @@ Steps to take:
 7) You can use the mnist.doc to print out a test set. The distance between the camera and the paper should be about 20 cm.
 
 Have fun!
+
+Bart Bozon
