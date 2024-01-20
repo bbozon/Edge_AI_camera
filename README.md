@@ -15,3 +15,5 @@ Steps to take:
 Have fun!
 
 Bart Bozon
+
+PS Don't use strings in your code, apparently it breaks the model!  
