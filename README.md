@@ -3,7 +3,7 @@ Introduction to Edge AI with the Arduino nano 33 sense
 
 
 Steps to take:
-1) But the tiny ml kit  :https://store.arduino.cc/products/arduino-tiny-machine-learning-kit
+1) Buy the tiny ml kit  :https://store.arduino.cc/products/arduino-tiny-machine-learning-kit
 2) Follow the following instruction video https://youtu.be/LXgL850p7b0?si=nMxsl8I6LZIXbQnQ , but do NOT install the tensorflow library.
 3) Instead install the Harvard_TinyMLx library
 4) Follow the steps described in this colab file: https://colab.research.google.com/drive/1oqLV6Uvoo6HllVIfYQkYlJT-cWMVZ27L?usp=sharing  (if you don't have colab create an account).
