@@ -10,6 +10,7 @@ Steps to take:
 5) Copy the ai_cam_0_02.ino (and if you want to cheat the model.h file) to your arduino folder and upload it to your board (you might need to double click the button on the arduino to get it in programming mode).
 6) Open the serial monitor and press enter in the input field, this will start the first capture.
 7) You can use the mnist.doc to print out a test set. The distance between the camera and the paper should be about 20 cm.
+8) The performance is reasonable. Some digits are really good, some are rather disappointing.
 
 Have fun!
 
